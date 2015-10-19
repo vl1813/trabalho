@@ -13,8 +13,14 @@ $pergunta5 = array("enunciado"=>"Qual o século da Revolução Francesa?", "a"=>
 
 $pergunta6 = array("enunciado"=>"Em que ano a familia real veio ao Brasil?", "a"=>"1822", "b"=> "1808", "c"=> "2014");
 
+//Aqui voi criado uma variável para cada pergunta.
 
 $all = array($pergunta1, $pergunta2,$pergunta3,$pergunta4,$pergunta5,$pergunta6);
 
+//$all é o array que reune todas as perguntas.
+
 $altc = array(1=>"3", 2=>"3",3=>"3",4=>"3",5=>"2",6=>"2" );
+
+//esse último array contem a posição das respostas certas de cada pergunta.
+
 ?>
