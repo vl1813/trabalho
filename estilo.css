@@ -1,0 +1,60 @@
+#simulado{
+height:650px;
+background-color:#45cde0;
+background-image:url("img/fundo.png");
+font-family:andalus;
+text-decoration:bold;
+}
+#videos{
+height:650px;
+background-color:#ffea70;
+background-image:url("img/fundo.png");
+font-family:andalus;
+text-decoration:bold;
+}
+#entenda{
+height:auto;
+background-color:#8fe8d5;
+background-image:url("img/fundo.png"), position:bottom;
+font-family:andalus;
+text-decoration:bold;
+}
+.regioes{
+text-decoration:none;
+color:#000;
+font-size:18px;
+}
+.regioes:hover{
+text-decoration:none;
+color:#104e8b;
+font-family:times new roman;
+font-size:20px;
+}
+.alternativas{
+text-decoration:bold;
+color:#000;
+font-family:andalus;
+font-size:19px;}
+
+.corrigir{
+padding-left:40px;
+padding-top:40px;
+padding-right:40px;
+padding-bottom:40px;
+background-color:#ffea70;
+font-family:Andalus;
+font-size:20px;
+color:#000;
+margin-left:40%;
+margin-right:40%;
+margin-bottom:10%;
+margin-top:5%;
+}
+.button_corrigir{
+	color:#000;
+	background-color:#8fe8d5;
+}
+.button_corrigir:hover{
+	color:#fff;
+	background-color:#8fe8d5;
+}
